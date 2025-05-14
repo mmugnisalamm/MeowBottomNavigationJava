@@ -1,1 +1,2 @@
 include ':sample', ':meowbottomnavigation'
+rootProject.name = "MeowBottomNavigationJava"
